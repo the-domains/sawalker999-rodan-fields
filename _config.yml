@@ -1,0 +1,28 @@
+name: sawalker999 - Rodan+Fields
+favicon: null
+layout_spectrum: 0.6235441854223609
+typography_spectrum: 0.5854502881411463
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.820957261370495
+  lightness: 0.9503041924908757
+  saturation: 0.17315105581656098
+  rhythmicContrast: 0.002328473376110196
+purpose: []
