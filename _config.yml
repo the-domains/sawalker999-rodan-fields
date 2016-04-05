@@ -1,28 +1,40 @@
-name: sawalker999 - Rodan+Fields
 favicon: null
-layout_spectrum: 0.6235441854223609
-typography_spectrum: 0.5854502881411463
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: sawalker999 - Rodan+Fields
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.173151055816561
+  brandStrength: 0.820957261370495
+  rhythmicContrast: 0.002328473376110196
   brandColors:
     - '#292c31'
     - '#728491'
     - '#bcbbc1'
     - '#010101'
     - '#fdf6c0'
-  brandStrength: 0.820957261370495
   lightness: 0.9503041924908757
-  saturation: 0.17315105581656098
-  rhythmicContrast: 0.002328473376110196
-purpose: []
+typography_spectrum: 0.5854502881411463
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9436089
+analytics:
+  twitter: null
+  google: null
+  facebook: null
